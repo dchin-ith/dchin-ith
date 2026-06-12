@@ -37,7 +37,7 @@
 
 ## 📫 Get in Touch
 
-- 📧 [Email me](mailto:dchin@teladoc.com) ← *update with your email*
+
 
 ---
 
